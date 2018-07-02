@@ -1,4 +1,3 @@
-#write your code here
 def countdown_with_sleep(number = 1)
   sleep(number)
 end
